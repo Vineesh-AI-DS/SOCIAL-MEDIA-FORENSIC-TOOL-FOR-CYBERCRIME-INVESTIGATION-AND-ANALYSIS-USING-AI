@@ -40,19 +40,23 @@ TensorFlow / PyTorch (for AI analysis)
 Scikit-learn (for machine learning)
 
 Matplotlib & Seaborn (for data visualization)
+## System Architecture
+![Screenshot 2025-03-21 232914](https://github.com/user-attachments/assets/5d1b7d25-5e3c-4783-b776-4a9d38ef04bc)
+
 ## Output
+### Home
 ![Screenshot 2025-03-22 000905](https://github.com/user-attachments/assets/23e85fc3-433f-4d2e-93be-7b06ac862071)
-
+### Instagram data parsing
 ![Screenshot 2025-03-22 001016](https://github.com/user-attachments/assets/3bf23c16-d305-4714-9097-224b014f6260)
-
+### Download user data
 ![Screenshot 2025-03-22 001119](https://github.com/user-attachments/assets/6cb70c84-63bf-456f-bd71-64f931352ab8)
-
+### Posts sorted based on the number of likes
 ![Screenshot 2025-03-22 001326](https://github.com/user-attachments/assets/7065c28c-c466-4ce9-a3f9-6a9673b0b2b6)
-
+### Youtube Data Parsing
 ![Screenshot 2025-03-22 001508](https://github.com/user-attachments/assets/53732c3d-8ff0-4a23-ac9b-cccba78d051a)
-
+### Additional information
 ![Screenshot 2025-03-22 001545](https://github.com/user-attachments/assets/29f0701b-e29c-43b9-ac31-2cd507bf9cc4)
-
+### Videos sorted based on the number of likes
 ![Screenshot 2025-03-22 001652](https://github.com/user-attachments/assets/1a4ae817-93b3-4813-9f68-f17fc59466c3)
 
 
