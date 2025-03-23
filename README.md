@@ -33,13 +33,6 @@ Libraries & Frameworks:
 
 Streamlit (for UI development)
 
-Scrapy / BeautifulSoup (for web scraping)
-
-TensorFlow / PyTorch (for AI analysis)
-
-Scikit-learn (for machine learning)
-
-Matplotlib & Seaborn (for data visualization)
 ## System Architecture
 ![Screenshot 2025-03-21 232914](https://github.com/user-attachments/assets/5d1b7d25-5e3c-4783-b776-4a9d38ef04bc)
 
