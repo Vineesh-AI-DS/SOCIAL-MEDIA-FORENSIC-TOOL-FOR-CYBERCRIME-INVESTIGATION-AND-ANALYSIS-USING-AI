@@ -1,4 +1,4 @@
-# SOCIAL-MEDIA-FORENSIC-TOOL-FOR-CYBERCRIME-INVESTIGATION-AND-ANALYSIS-USING-AI
+#  SOCIAL MEDIA FORENSIC TOOL FOR CYBERCRIME INVESTIGATION AND ANALYSIS USING AI
 With the rise of cybercrimes such as identity theft, misinformation, cyberbullying, and online fraud, law enforcement agencies require advanced tools to analyze and investigate social media activities. The Social Media Forensic Tool for Cybercrime Investigation and Analysis Using AI is designed to extract, analyze, and visualize social media data to assist forensic experts in cyber investigations. By leveraging AI-driven techniques, this tool can detect suspicious activities, analyze patterns, and generate detailed reports to aid in cybercrime prevention and resolution.
 # About
 This project is a Streamlit-based AI-powered web application that retrieves and processes public social media data from platforms like Instagram and YouTube. It integrates web scraping, machine learning, and API-based data extraction to provide investigators with detailed insights into user activities, media interactions, and engagement metrics. The system employs natural language processing (NLP), anomaly detection, and deep learning algorithms to identify potential cyber threats.
@@ -41,10 +41,6 @@ Scikit-learn (for machine learning)
 
 Matplotlib & Seaborn (for data visualization)
 
-APIs Used:
 
-YouTube Data API v3
 
-Instagram Graph API
 
-This AI-powered social media forensic tool is a powerful solution for law enforcement, cybersecurity experts, and digital investigators to track and prevent cybercrime effectively.
